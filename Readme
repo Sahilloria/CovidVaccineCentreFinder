@@ -1,0 +1,4 @@
+To run CovidVaccine Panel run this command as per your convinence:
+
+python manage.py runserver
+python3 manage.py runserver
